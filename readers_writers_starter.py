@@ -200,6 +200,7 @@ def main() -> None:
 
 
     # TODO: Print final message that simulation completed
+    print("Simulation completed successfully!")
 
 
 if __name__ == "__main__":
